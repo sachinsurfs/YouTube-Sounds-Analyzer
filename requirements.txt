@@ -1,0 +1,8 @@
+Python Packages:
+numPy >= 1.8.2
+PyAudio >=0.2.7
+Wave == 0.0.2
+youtube_dl >= 2015.02.24.2
+
+#Additionally,
+#avconv - (sudo apt-get install libav-tools)
